@@ -1,3 +1,5 @@
 # BlockChainRecordKeeper
-A Backend(RESTful) App to allow users to keep a record of any and all things without changing the App.
-The App should allow all of this under a single Umbrella.
+
+A software service to backup data of any electronic device onto a drive/path of our choosing, destroy any and all traces of any personal data on the device.
+
+The project is made to enable recycling of older devices by consumers by freeing them from the worry of a third party getting hold of their data.
